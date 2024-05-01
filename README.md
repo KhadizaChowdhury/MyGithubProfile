@@ -6,7 +6,7 @@ Web Developer
 
 I'm a passionate web developer in the making, fascinated by the art of creating immersive digital experiences. Currently delving into HTML, CSS, and JavaScript, PHP. I'm excited about collaborating, learning, and contributing to exciting projects. Let's connect and code together!
 
-* 🌍  I'm based in Bangladesh
+* 🌍  I'm based in Sylhet, Bangladesh
 * 🖥️  See my portfolio at [MyPortfolio](http://khadizachowdhury.com)
 * ✉️  You can contact me at [khadizachowdhury70@gmail.com](mailto:khadizachowdhury70@gmail.com)
 * 🧠  I'm learning Laravel
